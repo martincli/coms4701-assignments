@@ -32,3 +32,5 @@ The following is the output:
     Maybe
 
 This means that the classifier, using the decision tree generated from the training data, determined the classification for the first row in the test data to be 'Yes', the second to be 'No', and the third to be 'Maybe'.
+
+<b>NOTE:</b> The included classifier.py file is the result of running learner.py on the provided training data. You may delete classifier.py and re-run learner.py to verify. Running learner.py on another training data file will overwrite classifier.py.
